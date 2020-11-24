@@ -1,0 +1,64 @@
+/*-----elements-----*/
+
+a:hover {
+  color: red;
+}
+
+body {
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  color: white;
+  margin: 0 0 0 0;
+  padding-top: 0;
+  line-height: 2;
+}
+
+head {
+  display: block;
+  margin: 0;
+  padding-top: 0;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0 0 0 0;
+}
+
+/*-----classes-----*/
+
+.coming-soon {
+  font-size: 2rem;
+}
+
+.carousel {
+  background-color: #133b5c; /*133b5c*/
+  padding: 100px;
+}
+
+.top-box {
+background-color: #1e5f74; /*1d2d50*/
+}
+
+.middle-box {
+  background-color: #133b5c; /*133b5c*/
+  padding: 100px;
+}
+
+.bottom-box {
+  background-color: #1d2d50; /*1e5f74*/
+  padding: 100px;
+}
+
+/*images*/
+
+.brideandgroom {
+text-align: center;
+border-radius: 25%;
+width: 18%;
+margin: 20px 0 20px 0;
+}
